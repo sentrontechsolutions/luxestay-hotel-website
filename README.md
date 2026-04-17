@@ -22,7 +22,9 @@ https://luxestaydemo.netlify.app
 ## 📸 Preview
 <p align="center">
   <img src="assets/images/homepage.png" width="45%" />
-  <img src="assets/images/dashboard.png" width="45%" />
+  <img src="assets/images/img2.png" width="45%" />
+  <img src="assets/images/img3.png" width="45%" />
+  <img src="assets/images/img4.png" width="45%" />
 </p>
 
 ## 📌 Status
